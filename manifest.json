@@ -1,0 +1,10 @@
+{
+  "steps": {
+    "Step 1: Extract from Figma": {
+      "status": "done"
+    },
+    "Step 5: Scaffold Project": {
+        "status": "in_progress"
+    }
+  }
+}
